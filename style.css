@@ -6,3 +6,6 @@ body{
 h2{
   border: 5px solid green;
 }
+p{
+    border: 5px solid violet;
+}
